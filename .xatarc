@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Benjamin-Allen-s-workspace-a58ocm.us-east-1.xata.sh/db/scene_drop",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
